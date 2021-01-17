@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on an open source project demonstrating the modern mobile web.
-Video explaining this project here: https://youtu.be/-SIJiZzzuB0. 
+🏁 I’m looking to collaborate on an open source project demonstrating the modern mobile web.
+Video explaining this project here:    
   
+[![](http://img.youtube.com/vi/-SIJiZzzuB0/0.jpg)](http://www.youtube.com/watch?v=-SIJiZzzuB0 "Modern Mobile Web")
+
 
 🌱 I’m currently learning all things web development. I recently completed Lambda School full-stack web development track.  
   
-📫 How to reach me: DM me on twitter.com/petedram.
-  
-💬 Ask me about travel and single malt scotch whisky. 
+📫 How to reach me: [DM me on twitter!](http://twitter.com/petedram)
 
 
 
