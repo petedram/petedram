@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏁 I’m looking to collaborate on an open source project demonstrating the modern mobile web.
+🏁 I’m looking to collaborate on an open source project demonstrating the Modern Mobile Web.
 Video explaining this project here:    
   
 [![](http://img.youtube.com/vi/-SIJiZzzuB0/0.jpg)](http://www.youtube.com/watch?v=-SIJiZzzuB0 "Modern Mobile Web")
