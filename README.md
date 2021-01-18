@@ -6,7 +6,7 @@ Video explaining this project here:
 [![](http://img.youtube.com/vi/-SIJiZzzuB0/0.jpg)](http://www.youtube.com/watch?v=-SIJiZzzuB0 "Modern Mobile Web")
 
 
-🌱 I’m currently learning all things web development. I recently completed Lambda School full-stack web development track.  
+🌱 I recently completed Lambda School full-stack web development track.  
   
 📫 How to reach me: [DM me on twitter!](http://twitter.com/petedram)
 
