@@ -8,7 +8,7 @@ Video explaining this project here:
 
 🌱 I recently completed Lambda School full-stack web development track.  
 
-[https://github.com/Lambda-School-Labs/quake-fe/blob/master/public/logo-16px.png?raw=true] Checkout Faultline.app - a mobile and desktop web app to explore historical earthquake data, get sms notifications of earthquakes within a set radius and help prepare for the next one. [A video demo and overview of the project is here](https://youtu.be/LD9z3iCCXjI?start=7551&end=8912)
+(https://github.com/Lambda-School-Labs/quake-fe/blob/master/public/logo-16px.png?raw=true) Checkout Faultline.app - a mobile and desktop web app to explore historical earthquake data, get sms notifications of earthquakes within a set radius and help prepare for the next one. [A video demo and overview of the project is here](https://youtu.be/LD9z3iCCXjI?start=7551&end=8912)
 
 📫 How to reach me: [DM me on twitter!](http://twitter.com/petedram)
 
