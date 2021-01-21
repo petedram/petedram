@@ -10,6 +10,8 @@ Video explaining this project here:
 
 [<img src="https://raw.githubusercontent.com/petedram/petedram/main/fl-logo-16px.png" width="16" height="16">](https://faultline.app) Checkout [Faultline.app](https://faultline.app) - a mobile and desktop web app to explore historical earthquake data, get sms notifications of earthquakes within a set radius and help prepare for the next one. [A video demo and overview of the project is here](https://youtu.be/LD9z3iCCXjI?start=7551&end=8912).
 
+🌍 I love to travel, reach out if you are working on an apps which are travel related.
+
 📫 How to reach me: [DM me on twitter!](http://twitter.com/petedram)
 
 
