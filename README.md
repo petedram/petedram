@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m looking to collaborate on an open source project demonstrating the Modern Mobile Web.
-Video explaining this project here:    
+🔭 Web > Native:
   
 [![](http://img.youtube.com/vi/-SIJiZzzuB0/0.jpg)](http://www.youtube.com/watch?v=-SIJiZzzuB0 "Modern Mobile Web")
 
@@ -10,7 +9,7 @@ Video explaining this project here:
 
 [<img src="https://raw.githubusercontent.com/petedram/petedram/main/fl-logo-16px.png" width="16" height="16">](https://faultline.app) Checkout [Faultline.app](https://faultline.app) - a mobile and desktop web app to explore historical earthquake data, get sms notifications of earthquakes within a set radius and help prepare for the next one. [A video demo and overview of the project is here](https://youtu.be/LD9z3iCCXjI?start=7551&end=8912).
 
-🌍 I love to travel, please reach out if you are working on any apps which are travel related.
+🌍 Interested in Decentalized Apps, NFTs and digital assets.
 
 📫 How to reach me: [DM me on twitter!](http://twitter.com/petedram)
 
