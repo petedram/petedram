@@ -2,11 +2,11 @@
 
 I believe:
 
-🌐 [Web > Native](http://www.youtube.com/watch?v=-SIJiZzzuB0)
+🌐  [Web > Native](http://www.youtube.com/watch?v=-SIJiZzzuB0)
 
-🌍 [Decentralized > Centralized](https://ethereum.org/en/dapps)
+🌍  [Decentralized > Centralized](https://ethereum.org/en/dapps)
 
-🎨 🎤 🎵 🎬 🖋️ 🛠️ Creators are eating the world.		
+🎨 🎤 🎵 🎬 🖋️ 🛠️  Creators are eating the world.		
 
 I'm optimistic about the future and excited to play my part.
 
