@@ -2,9 +2,9 @@
 
 I believe:
 
-[🌐 Web > Native](http://www.youtube.com/watch?v=-SIJiZzzuB0)
+<pre>[🌐 Web > Native](http://www.youtube.com/watch?v=-SIJiZzzuB0)</pre>
 
-[🌍 Decentralized > Centralized](https://ethereum.org/en/dapps)
+<pre>[🌍 Decentralized > Centralized](https://ethereum.org/en/dapps)</pre>
 
 
 |<pre> 🎨  🎤  🎵  🎬  🖋️  🛠️ </pre>| 
