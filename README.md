@@ -6,7 +6,7 @@ I believe:
 
 [🌍 Decentralized > Centralized](https://ethereum.org/en/dapps)
 
-🎨 🎤 🎵 🎬 🖋️ 🛠️ Creators are eating the world.		
+🎨 🎤     🎵 🎬 🖋️ 🛠️ Creators are eating the world.
 
 I'm optimistic about the future and excited to play my part.
 
