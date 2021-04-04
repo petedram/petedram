@@ -7,7 +7,7 @@ I believe:
 [🌍 Decentralized > Centralized](https://ethereum.org/en/dapps)
 
 
-| 🎨 🎤     🎵 🎬 🖋️ 🛠️ | 
+|<pre> 🎨  🎤  🎵  🎬  🖋️  🛠️ </pre>| 
 |-----------------|
 |  Creators are eating the world | 
 
