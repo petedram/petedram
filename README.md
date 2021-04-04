@@ -6,6 +6,8 @@ I believe:
 
 [🌍  Decentralized > Centralized](https://ethereum.org/en/dapps)
 
+___
+
 
 |<pre> 🎨  🎤  🎵  🎬  🖋️  🛠️ </pre>| 
 |-----------------|
